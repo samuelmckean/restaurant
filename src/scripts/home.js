@@ -6,7 +6,7 @@ const home = (function() {
   h1.innerHTML = 'Fine Outdoor Dining Experience';
   
   const img = document.createElement('img');
-  img.src = "../src/assets/restaurant.jpg"; 
+  img.src = "./assets/restaurant.jpg"; 
   
   const p = document.createElement('p');
   p.innerHTML = 'Please come to our amazing restaurant!';
