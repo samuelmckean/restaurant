@@ -1,0 +1,15 @@
+img {
+  max-width: 100%;
+  max-height: 500px;
+}
+
+#navbar {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+
+.nav-item {
+  list-style-type: none;
+  font-size: x-large;
+}
